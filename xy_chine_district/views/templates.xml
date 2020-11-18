@@ -1,0 +1,19 @@
+<odoo>
+    <act_window
+            id="contacts_create_view"
+            name="contacts_create"
+            res_model="res.partner"
+            view_mode="tree,kanban,form"
+            view_id="base.view_partner_form"
+    />
+
+    <menuitem
+            id="xy_chine_district"
+            name="chine_contacts"
+            sequence="0"
+            action="contacts_create_view"
+            groups="base.group_user"
+    />
+
+
+</odoo>
