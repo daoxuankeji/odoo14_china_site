@@ -1,0 +1,246 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* xy_chine_district
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-11-14 04:15+0000\n"
+"PO-Revision-Date: 2020-11-14 04:15+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "), are you sure to create a new one?"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid ""
+"<span class=\"o_form_label o_td_label\" name=\"address_name\">\n"
+"                                <b attrs=\"{'invisible': [('type', '!=', 'contact')]}\">Company Address</b>\n"
+"                                <b attrs=\"{'invisible': [('type', '!=', 'invoice')]}\">Invoice Address</b>\n"
+"                                <b attrs=\"{'invisible': [('type', '!=', 'delivery')]}\">Delivery Address</b>\n"
+"                                <b attrs=\"{'invisible': [('type', '!=', 'other')]}\">Other Address</b>\n"
+"                                <b attrs=\"{'invisible': [('type', '!=', 'private')]}\">Private Address</b>\n"
+"                                <b attrs=\"{'invisible': [('type', '!=', False)]}\">Address</b>\n"
+"                            </span>"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid ""
+"A partner with the same <span><span class=\"o_vat_label\">Tax "
+"ID</span></span> already exists ("
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Address"
+msgstr "地址"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Archived"
+msgstr "存档"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Avatar"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "City"
+msgstr "城市"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Company"
+msgstr "公司"
+
+#. module: xy_chine_district
+#: model:ir.model,name:xy_chine_district.model_res_partner
+msgid "Contact"
+msgstr "联系人"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Contact / Address"
+msgstr "联系人/地址"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Contact Name"
+msgstr "联系人"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Contact image"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Contacts & Addresses"
+msgstr "联系人和地址"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Country"
+msgstr "国家"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Create company"
+msgstr "创建公司"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Delivery"
+msgstr "交付"
+
+#. module: xy_chine_district
+#: model:ir.model.fields,field_description:xy_chine_district.field_res_partner__display_name
+msgid "Display Name"
+msgstr "显示名称"
+
+#. module: xy_chine_district
+#: model:ir.model.fields,field_description:xy_chine_district.field_res_partner__id
+msgid "ID"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Internal Notes"
+msgstr "备注"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Internal note..."
+msgstr "备注..."
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Internal notes..."
+msgstr "备注..."
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Invoice"
+msgstr "发票"
+
+#. module: xy_chine_district
+#: model:ir.model.fields,field_description:xy_chine_district.field_res_partner____last_update
+msgid "Last Modified on"
+msgstr "最后更改日"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Logo"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Misc"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Mobile:"
+msgstr "手机"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "More languages"
+msgstr "更多语言"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Name"
+msgstr "名字"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Partners"
+msgstr "客户"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Phone:"
+msgstr "手机："
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Purchase"
+msgstr "采购"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Reference"
+msgstr "参考"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Sales"
+msgstr "销售"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Sales & Purchase"
+msgstr "销售和采购"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "State"
+msgstr "省市"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Street..."
+msgstr "具体地址"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "Tags..."
+msgstr "标签"
+
+#. module: xy_chine_district
+#: model:ir.ui.menu,name:xy_chine_district.xy_chine_district
+msgid "chine_contacts"
+msgstr "汉化地址"
+
+#. module: xy_chine_district
+#: model:ir.actions.act_window,name:xy_chine_district.contacts_create_view
+msgid "contacts_create"
+msgstr "创建联系人"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "e.g. BE0477472701"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "e.g. Mister"
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "e.g. Mr."
+msgstr ""
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "e.g. Sales Director"
+msgstr "例如：销售总监"
+
+#. module: xy_chine_district
+#: model_terms:ir.ui.view,arch_db:xy_chine_district.view_partner_form
+msgid "e.g. https://www.siiyi.cn"
+msgstr ""
